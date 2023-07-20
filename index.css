@@ -1,0 +1,21 @@
+ul{
+    background-color: blueviolet;
+    display: flex;
+    list-style-type: none;
+    color:white;
+    height: 45px;
+}
+img{
+    width: 300px;
+margin-top: 3pxs;
+}
+
+body{
+    background:linear-gradient(to right,pink 50%, yellow 50%);
+    margin: 0;
+}
+ul li {
+    color:white;
+    text-decoration: none;
+    margin-left: 10px;
+}
